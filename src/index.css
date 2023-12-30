@@ -8,7 +8,7 @@ body {
   background-color: #292524;
   color: #fafaf9;
   font-family: "Sono", sans-serif;
-  padding: 48px 64px 0px;
+  padding: 48px 64px;
 }
 
 .hidden {
@@ -59,6 +59,9 @@ section {
   .header {
     flex-direction: column;
     gap: 40px;
+  }
+  body {
+    padding: 48px 20px;
   }
 }
 
